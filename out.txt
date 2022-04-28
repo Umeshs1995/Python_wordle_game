@@ -1,0 +1,80 @@
+Type Your Guess:class
+
+Your results so far...
+You have 5 attempts remaining.
+
+┌───────────┐
+│ C L A S S │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+└───────────┘
+Type Your Guess:happy
+
+Your results so far...
+You have 4 attempts remaining.
+
+┌───────────┐
+│ C L A S S │
+│ H A P P Y │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+└───────────┘
+Type Your Guess:write
+
+Your results so far...
+You have 3 attempts remaining.
+
+┌───────────┐
+│ C L A S S │
+│ H A P P Y │
+│ W R I T E │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+└───────────┘
+Type Your Guess:guess
+
+Your results so far...
+You have 2 attempts remaining.
+
+┌───────────┐
+│ C L A S S │
+│ H A P P Y │
+│ W R I T E │
+│ G U E S S │
+│ _ _ _ _ _ │
+│ _ _ _ _ _ │
+└───────────┘
+Type Your Guess:upper
+
+Your results so far...
+You have 1 attempts remaining.
+
+┌───────────┐
+│ C L A S S │
+│ H A P P Y │
+│ W R I T E │
+│ G U E S S │
+│ U P P E R │
+│ _ _ _ _ _ │
+└───────────┘
+Type Your Guess:lower
+
+Your results so far...
+You have 0 attempts remaining.
+
+┌───────────┐
+│ C L A S S │
+│ H A P P Y │
+│ W R I T E │
+│ G U E S S │
+│ U P P E R │
+│ L O W E R │
+└───────────┘
+You failed to solve the puzzle!
+The secret word was: KRONA
